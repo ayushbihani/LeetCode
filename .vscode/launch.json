@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - group",
+            "request": "launch",
+            "mainClass": "medium.group",
+            "projectName": "LeetCode_f62926d8"
+        }
+    ]
+}
